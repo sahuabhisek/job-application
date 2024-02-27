@@ -1,0 +1,66 @@
+.container{
+             border: 1px solid black;
+             width: 45%;
+             margin: auto;
+             text-align: center;
+             background-color: bisque;
+
+}
+ input[type="text"]{
+       border: 1px solid red;
+       width:480px; 
+       padding: 10px;
+       margin: 10px;
+       font-size:20px;
+       border-radius: 5px;
+}
+input[type="email"]{
+       border: 1px solid red;
+       width:480px; 
+       padding: 10px;
+       margin: 10px;
+       font-size:20px;
+       border-radius: 5px;
+}
+input[type="phone"]{
+       border: 1px solid red;
+       width:480px; 
+       padding: 10px;
+       margin: 10px;
+       font-size:20px;
+       border-radius: 5px;
+}
+           input[type="file"]{
+              -border: 1px solid red;
+              width:480px; 
+              padding: 10px;
+              margin: 10px;
+              font-size:20px;
+              border-radius: 5px;
+           }
+ input[type="radio"] {
+ margin-right: 10px;
+ vertical-align:
+ middle;
+ }
+
+
+
+select{
+     width:400px;
+     padding: 10px;
+     font-size:20px;
+     border-radius: 5px;
+}
+.btn {
+      width: 400px;
+      padding: 10px;
+      margin: 10px;
+      color: white;
+      background-color: green;
+      font-size: 20px;
+}
+.btn:hover{
+       background-color: chocolate;
+       cursor: pointer;
+}
